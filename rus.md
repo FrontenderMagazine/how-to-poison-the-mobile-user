@@ -1,6 +1,3 @@
-<article class="post-267377 post type-post status-publish format-standard has-
-post-thumbnail hentry category-mobile tag-user-experience
-">
 Одним из самых популярных телевизионных героев детских мультфильмов в Чехии был
 [Крот][1], невинное безмолвное и веселое существо, которое помогает другим
 животным в лесу.
@@ -25,7 +22,7 @@ post-thumbnail hentry category-mobile tag-user-experience
 заполним страницу элементами с фиксированным позиционированием. Я готов
 поспорить, что бедные мобильные пользователи не смогут этого пережить.
 
-### 1. Сделать медленно загружающийся сайт [Link][3]  {#1-make-the-website-load-slowly}
+## 1. Сделать медленно загружающийся сайт
 
 *Создание сайта который медленно загружается – это лучше оружие против
 мобильных пользователей. Может посетитель успеет пойти на почтовое отделение и
@@ -34,16 +31,16 @@ post-thumbnail hentry category-mobile tag-user-experience
 
 Теперь, давайте быть серьезными. Скорость передачи данных в сетях мобильной
 связи идет медленно, и даже если скорость увеличивается до 3G и 4G,
-[сети есть не везде][4][2][5], и они просто не могут конкурировать с проводными.
+[сети есть не везде][2], и они просто не могут конкурировать с проводными.
 
 Различные испытания и исследования показывают, что
-[скорость загрузки сайта имеет существенное влияние][6][3][7] на количество
+[скорость загрузки сайта имеет существенное влияние][3] на количество
 конверсий и общую эффективность сайта. Пользователь не должен ждать больше,
 чем на пару секунд пока сайт отрендерится, даже при использовании соединения
 EDGE.
 
 Кроме того, не забывайте, что скорость сайта является
-[одним из критериев][8][4][9], которые Google считает для результатов поиска и
+[одним из критериев][4], которые Google считает для результатов поиска и
 кампаний AdWords. Таким образом, она затрагивает не только конверсии, но и
 будут ли пользователи попадать на ваш сайт вообще.
 
@@ -596,221 +593,215 @@ Facebook, Twitter и Google кнопки не удобны для пользов
 как заканчивается сказка? Крот выживает, смеется над стариком и переезжает
 в другой сад.
 
-</article>
+ [1]: https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D1%82_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)
 
- [1]:https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D1%82_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)
+ [4]: https://twitter.com/firt/status/757587453234454528
 
- [2]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#1
+ [5]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#2
+ [6]: https://wpostats.com/
 
- [3]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#1-make-the-website-load-slowly
+ [7]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#3
 
- [4]:https://twitter.com/firt/status/757587453234454528
+ [8]: https://adwords.googleblog.com/2008/06/landing-page-load-time-now-affects.html
 
- [5]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#2
- [6]:https://wpostats.com/
+ [9]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#4
+ [10]: http://danielmall.com/articles/how-to-make-a-performance-budget/
 
- [7]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#3
+ [11]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#5
+ [12]: https://developers.google.com/speed/docs/insights/rules
 
- [8]:https://adwords.googleblog.com/2008/06/landing-page-load-time-now-affects.html
+ [13]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#6
+ [14]: https://developers.google.com/speed/pagespeed/insights/
 
- [9]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#4
- [10]:http://danielmall.com/articles/how-to-make-a-performance-budget/
+ [15]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#16
+ [16]: http://www.webpagetest.org/
 
- [11]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#5
- [12]:https://developers.google.com/speed/docs/insights/rules
+ [17]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#17
 
- [13]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#6
- [14]:https://developers.google.com/speed/pagespeed/insights/
+ [18]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#2-design-your-carousel-poorly
+ [19]: img/image_0-500-opt.png
 
- [15]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#16
- [16]:http://www.webpagetest.org/
+ [20]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#18
 
- [17]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#17
+ [21]: http://www.smashingmagazine.stfi.re/wp-content/uploads/2016/09/image_0-opt.png
 
- [18]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#2-design-your-carousel-poorly
- [19]:img/image_0-500-opt.png
+ [22]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#19
+ [23]: https://erikrunyon.com/2013/07/carousel-interaction-stats/
 
- [20]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#18
+ [24]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#20
 
- [21]:http://www.smashingmagazine.stfi.re/wp-content/uploads/2016/09/image_0-opt.png
+ [25]: http://www.smashingmagazine.stfi.re/2015/02/carousel-usage-exploration-on-mobile-e-commerce-websites/
 
- [22]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#19
- [23]:https://erikrunyon.com/2013/07/carousel-interaction-stats/
+ [26]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#21
+ [27]: img/image_1-500-opt.png
 
- [24]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#20
+ [28]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#22
 
- [25]:http://www.smashingmagazine.stfi.re/2015/02/carousel-usage-exploration-on-mobile-e-commerce-websites/
+ [29]: http://www.smashingmagazine.stfi.re/wp-content/uploads/2016/09/image_1-opt.png
 
- [26]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#21
- [27]:img/image_1-500-opt.png
+ [30]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#23
+ [31]: https://www.nngroup.com/articles/hamburger-menus/
 
- [28]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#22
+ [32]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#24
+ [33]: https://css-tricks.com/diy-priority-plus-nav/
 
- [29]:http://www.smashingmagazine.stfi.re/wp-content/uploads/2016/09/image_1-opt.png
+ [34]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#25
+ [35]: img/image_2-500-opt.png
 
- [30]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#23
- [31]:https://www.nngroup.com/articles/hamburger-menus/
+ [36]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#26
 
- [32]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#24
- [33]:https://css-tricks.com/diy-priority-plus-nav/
+ [37]: http://www.smashingmagazine.stfi.re/wp-content/uploads/2016/09/image_2-opt.png
 
- [34]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#25
- [35]:img/image_2-500-opt.png
+ [38]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#27
+ [39]: http://exisweb.net/mobile-menu-abtest
 
- [36]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#26
+ [40]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#28
 
- [37]:http://www.smashingmagazine.stfi.re/wp-content/uploads/2016/09/image_2-opt.png
+ [41]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#4-always-rely-on-the-swipe-gesture
 
- [38]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#27
- [39]:http://exisweb.net/mobile-menu-abtest
+ [42]: https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570#.1qxxllypd
 
- [40]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#28
+ [43]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#29
+ [44]: https://www.eventbrite.com/engineering/mobile-safari-why/
 
- [41]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#4-always-rely-on-the-swipe-gesture
+ [45]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#30
 
- [42]:https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570#.1qxxllypd
+ [46]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#5-make-all-tap-targets-nice-and-small
+ [47]: https://abookapart.com/products/designing-for-touch
 
- [43]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#29
- [44]:https://www.eventbrite.com/engineering/mobile-safari-why/
+ [48]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#31
+ [49]: http://www.elearningguild.com/insights/index.cfm?id=174&action=viewonly
 
- [45]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#30
+ [50]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#32
+ [51]: https://github.com/robwierzbowski/grunt-pixrem
 
- [46]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#5-make-all-tap-targets-nice-and-small
- [47]:https://abookapart.com/products/designing-for-touch
+ [52]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#33
 
- [48]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#31
- [49]:http://www.elearningguild.com/insights/index.cfm?id=174&action=viewonly
+ [53]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#34
 
- [50]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#32
- [51]:https://github.com/robwierzbowski/grunt-pixrem
+ [54]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#6-make-it-responsive-but-only-for-certain-resolutions
+ [55]: http://screensiz.es/phone
 
- [52]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#33
+ [56]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#35
+ [57]: https://twitter.com/LiquidLightUK/status/644827716739592192
 
- [53]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#34
+ [58]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#36
+ [59]: img/image_3-500-opt.png
 
- [54]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#6-make-it-responsive-but-only-for-certain-resolutions
- [55]:http://screensiz.es/phone
+ [60]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#37
 
- [56]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#35
- [57]:https://twitter.com/LiquidLightUK/status/644827716739592192
+ [61]: http://www.smashingmagazine.stfi.re/wp-content/uploads/2016/09/image_3-opt.png
 
- [58]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#36
- [59]:img/image_3-500-opt.png
+ [62]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#38
+ [63]: http://bradfrost.com/demo/ish/
 
- [60]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#37
+ [64]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#39
 
- [61]:http://www.smashingmagazine.stfi.re/wp-content/uploads/2016/09/image_3-opt.png
+ [65]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#also-dont-change-the-design-when-the-phone-switches-from-portrait-to-landscape-mode
 
- [62]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#38
- [63]:http://bradfrost.com/demo/ish/
+ [66]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#7-dont-make-phone-numbers-tappable
+ [67]: http://www.mobilexweb.com/blog/click-to-call-links-mobile-browsers
 
- [64]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#39
+ [68]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#40
 
- [65]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#also-dont-change-the-design-when-the-phone-switches-from-portrait-to-landscape-mode
+ [69]: https://css-tricks.com/the-current-state-of-telephone-links/#article-header-id-1
 
- [66]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#7-dont-make-phone-numbers-tappable
- [67]:http://www.mobilexweb.com/blog/click-to-call-links-mobile-browsers
+ [70]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#41
+ [71]: https://github.com/kaimallea/isMobile
 
- [68]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#40
+ [72]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#42
 
- [69]:https://css-tricks.com/the-current-state-of-telephone-links/#article-header-id-1
+ [73]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#8-disable-zooming
+ [74]: http://adrianroselli.com/2015/10/dont-disable-zoom.html
 
- [70]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#41
- [71]:https://github.com/kaimallea/isMobile
+ [75]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#43
+ [76]: http://baymard.com/blog/mobile-image-gestures
 
- [72]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#42
+ [77]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#44
 
- [73]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#8-disable-zooming
- [74]:http://adrianroselli.com/2015/10/dont-disable-zoom.html
+ [78]: https://www.w3.org/TR/2008/REC-WCAG20-20081211/#visual-audio-contrast-scale
 
- [75]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#43
- [76]:http://baymard.com/blog/mobile-image-gestures
+ [79]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#45
 
- [77]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#44
+ [80]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#9-set-user-select-none-and-all-is-good
+ [81]: https://css-tricks.com/almanac/properties/u/user-select/
 
- [78]:https://www.w3.org/TR/2008/REC-WCAG20-20081211/#visual-audio-contrast-scale
+ [82]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#46
 
- [79]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#45
+ [83]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#10-load-web-fonts-incorrectly
+ [84]: https://www.zachleat.com/web/foft/
 
- [80]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#9-set-user-select-none-and-all-is-good
- [81]:https://css-tricks.com/almanac/properties/u/user-select/
+ [85]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#47
+ [86]: img/image_4-500-opt.png
 
- [82]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#46
+ [87]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#48
 
- [83]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#10-load-web-fonts-incorrectly
- [84]:https://www.zachleat.com/web/foft/
+ [88]: http://www.smashingmagazine.stfi.re/wp-content/uploads/2016/09/image_4-opt.png
 
- [85]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#47
- [86]:img/image_4-500-opt.png
+ [89]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#49
+ [90]: https://github.com/bramstein/fontfaceobserver
 
- [87]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#48
+ [91]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#50
+ [92]: https://www.zachleat.com/web/comprehensive-webfonts/
 
- [88]:http://www.smashingmagazine.stfi.re/wp-content/uploads/2016/09/image_4-opt.png
+ [93]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#51
 
- [89]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#49
- [90]:https://github.com/bramstein/fontfaceobserver
+ [94]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#11-clutter-the-page-with-social-media-buttons
 
- [91]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#50
- [92]:https://www.zachleat.com/web/comprehensive-webfonts/
+ [95]: https://vwo.com/blog/removing-social-sharing-buttons-from-ecommerce-product-page-increase-conversions/
 
- [93]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#51
+ [96]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#52
+ [97]: https://github.com/bradvin/social-share-urls#google
 
- [94]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#11-clutter-the-page-with-social-media-buttons
+ [98]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#53
+ [99]: http://social-likes.js.org/
 
- [95]:https://vwo.com/blog/removing-social-sharing-buttons-from-ecommerce-product-page-increase-conversions/
+ [100]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#54
 
- [96]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#52
- [97]:https://github.com/bradvin/social-share-urls#google
+ [101]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#12-faulty-redirection-from-desktop-to-mobile
 
- [98]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#53
- [99]:http://social-likes.js.org/
+ [102]: https://developers.google.com/webmasters/mobile-sites/mobile-seo/common-mistakes#faulty-redirects
 
- [100]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#54
+ [103]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#55
 
- [101]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#12-faulty-redirection-from-desktop-to-mobile
+ [104]: https://developers.google.com/webmasters/mobile-sites/mobile-seo/separate-urls
 
- [102]:https://developers.google.com/webmasters/mobile-sites/mobile-seo/common-mistakes#faulty-redirects
-
- [103]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#55
-
- [104]:https://developers.google.com/webmasters/mobile-sites/mobile-seo/separate-urls
-
- [105]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#56
- [106]:https://abookapart.com/products/going-responsive
+ [105]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#56
+ [106]: https://abookapart.com/products/going-responsive
 
  [107]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#57
  [108]: http://trentwalton.com/2014/07/17/m-dot-or-rwd/
 
- [109]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#58
+ [109]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#58
 
- [110]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#13-hide-the-content-well
- [111]:img/image_5-500-opt.png
+ [110]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#13-hide-the-content-well
+ [111]: img/image_5-500-opt.png
 
- [112]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#59
+ [112]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#59
 
- [113]:http://www.smashingmagazine.stfi.re/wp-content/uploads/2016/09/image_5-opt.png
+ [113]: http://www.smashingmagazine.stfi.re/wp-content/uploads/2016/09/image_5-opt.png
 
- [114]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#60
- [115]:https://www.cookiechoices.org/
+ [114]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#60
+ [115]: https://www.cookiechoices.org/
 
- [116]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#61
+ [116]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#61
 
- [117]:https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html
+ [117]: https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html
 
- [118]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#62
+ [118]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#62
 
- [119]:https://developers.google.com/web/updates/2015/03/increasing-engagement-with-app-install-banners-in-chrome-for-android#native
+ [119]: https://developers.google.com/web/updates/2015/03/increasing-engagement-with-app-install-banners-in-chrome-for-android#native
 
- [120]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#63
+ [120]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#63
 
- [121]:https://webmasters.googleblog.com/2016/08/helping-users-easily-access-content-on.html
+ [121]: https://webmasters.googleblog.com/2016/08/helping-users-easily-access-content-on.html
 
- [122]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#64
+ [122]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#64
 
- [123]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#how-many-mobile-users-have-you-poisoned-today
+ [123]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#how-many-mobile-users-have-you-poisoned-today
 
- [124]:http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#top
+ [124]: http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/?sf=xzpnkla#top
 
- [125]:https://twitter.com/intent/tweet?original_referer=http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/&source=tweetbutton&text=How%20To%20Poison%20The%20Mobile%20User&url=http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/&via=smashingmag
+ [125]: https://twitter.com/intent/tweet?original_referer=http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/&source=tweetbutton&text=How%20To%20Poison%20The%20Mobile%20User&url=http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/&via=smashingmag
 
- [126]:http://www.facebook.com/sharer/sharer.php?u=http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/
+ [126]: http://www.facebook.com/sharer/sharer.php?u=http://www.smashingmagazine.stfi.re/2016/10/how-to-poison-the-mobile-user/
