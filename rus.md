@@ -592,12 +592,13 @@ Facebook, Twitter и Google кнопки не удобны для пользов
  [17]: http://www.webpagetest.org/
  
  [Найк и БестБай]: img/image_0-500-opt.png "Альтернатирвный текст"
- [18]: img/image_0-500-opt.png
+ [18]: https://www.smashingmagazine.com/wp-content/uploads/2016/09/image_0-opt.png
+ 
  [19]: https://erikrunyon.com/2013/07/carousel-interaction-stats/
  [20]: https://www.smashingmagazine.com/2015/02/carousel-usage-exploration-on-mobile-e-commerce-websites/
  
  [NewEgg и B&H]: img/image_1-500-opt.png "Альтернатирвный текст"
- [21]: img/image_1-500-opt.png
+ [21]: https://www.smashingmagazine.com/wp-content/uploads/2016/09/img/image_1-opt.png
  [22]: https://www.nngroup.com/articles/hamburger-menus/
  [23]: https://css-tricks.com/diy-priority-plus-nav/
  
@@ -618,7 +619,7 @@ Facebook, Twitter и Google кнопки не удобны для пользов
  [33]: https://twitter.com/LiquidLightUK/status/644827716739592192
 
  [Keep Calm]: img/image_3-500-opt.png "Альтернатирвный текст"
- [34]: img/image_3-500-opt.png
+ [34]: https://www.smashingmagazine.com/wp-content/uploads/2016/09/img/image_3-opt.png
 
  [35]: http://bradfrost.com/demo/ish/
  [36]: http://www.mobilexweb.com/blog/click-to-call-links-mobile-browsers
@@ -635,7 +636,7 @@ Facebook, Twitter и Google кнопки не удобны для пользов
  [43]: https://www.zachleat.com/web/foft/
  
  [FOUT]: img/image_4-500-opt.png "Альтернатирвный текст"
- [44]: img/image_4-500-opt.png
+ [44]: https://www.smashingmagazine.com/wp-content/uploads/2016/09/img/image_4-opt.png
  
  [45]: https://github.com/bramstein/fontfaceobserver
  [46]: https://www.zachleat.com/web/comprehensive-webfonts/
@@ -653,7 +654,7 @@ Facebook, Twitter и Google кнопки не удобны для пользов
 
 
  [Location]: img/image_5-500-opt.png "Альтернатирвный текст"
- [54]: img/image_5-500-opt.png
+ [54]: https://www.smashingmagazine.com/wp-content/uploads/2016/09/img/image_5-opt.png
  
  [55]: https://www.cookiechoices.org/
  [56]: https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html
